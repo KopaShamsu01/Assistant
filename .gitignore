@@ -1,0 +1,32 @@
+# Python .gitignore
+
+# Byte-compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+*.env
+*.venv
+env/
+venv/
+
+# Logs
+*.log
+
+# Backups
+*.bak
+*.tmp
+
+# SQLite database files
+*.sqlite
+
+# Credentials
+credentials.json
+drive_credentials.json
+token.pickle
+drive_token.pickle
+
+# OS files
+.DS_Store
+Thumbs.db
