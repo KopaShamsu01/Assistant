@@ -1,0 +1,3 @@
+from enhanced_personal_assistant import enhanced_main_menu
+
+enhanced_main_menu()
